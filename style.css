@@ -46,6 +46,12 @@ main h2 {
 }
 
 .my-bio {
-    background-color: green;
+    background-color: rgb(68, 0, 82);
     color: white;
+}
+
+.my-style {
+    color:darkviolet;
+    background-color: cornflowerblue;
+    padding: 3px;
 }
